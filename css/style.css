@@ -6,5 +6,10 @@ h1{
 h2{
     text-align: center;
     text-decoration-line: underline;
-    color: red;
+    color:black;
+}
+h3{text-align: center;
+    text-decoration-line: underline;
+    color:blue;
+
 }
