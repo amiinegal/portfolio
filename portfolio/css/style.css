@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    color: red;
+}
+h2{
+    text-align: center;
+    text-decoration-line: underline;
+    color:black;
+}
+h3{text-align: center;
+    text-decoration-line: underline;
+    color:blue;
+
+}
+body{
+    background-position: center;
+    background-color: #778899
+    background-image: url()
+}
