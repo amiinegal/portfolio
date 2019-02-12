@@ -1,22 +1,22 @@
-#MY PORTFOLIO
+MY PORTFOLIO
 
 This is my my independent project and includes potions about me ,my hobbies,and my other projects
 
-##Author name
+Author name
 
 AMIN EGAL
 
-##Project description
+Project description
 
 this website is a personal portfolio of ABDULLAHI MOHAMUD and it contains information about the author and the projects he undertook
 
-##technology used
+technology used
 
 this website was built using hyper text markup language and cascading styles sheet
 
 target Audience-Everyone
 
-##project setup installation
+project setup installation
 
 1.On GitHub, navigate to the main page of the repository.
 
@@ -32,11 +32,11 @@ target Audience-Everyone
 
 7.Press Enter. Your local clone will be created.
 
-##live link
+live link
 
 https://amiinegal.github.io/portfolio/
 
-##license MIT licence
+license MIT licence
 
 Copyright
 
