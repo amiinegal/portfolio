@@ -8,7 +8,7 @@ AMIN EGAL
 
 Project description
 
-this website is a personal portfolio of ABDULLAHI MOHAMUD and it contains information about the author and the projects he undertook
+this website is a personal portfolio of AMIN EGAL  and it contains information about the author and the projects he undertook.
 
 technology used
 
