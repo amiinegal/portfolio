@@ -1,18 +1,18 @@
-MY PORTFOLIO
+# MY PORTFOLIO
 
 This is my my independent project and includes potions about me ,my hobbies,and my other projects
 
 Author name
 
-AMIN EGAL
+## AMIN EGAL
 
-Project description
+### Project description
 
-this website is a personal portfolio of AMIN EGAL  and it contains information about the author and the projects he undertook.
+This website is a personal portfolio of AMIN EGAL  and it contains information about the author and the projects he undertook.
 
-technology used
+## Technology used
 
-this website was built using hyper text markup language and cascading styles sheet
+This website was built using hyper text markup language and cascading styles sheet
 
 target Audience-Everyone
 
@@ -32,13 +32,13 @@ project setup installation
 
 7.Press Enter. Your local clone will be created.
 
-live link
+## live link
 
 https://amiinegal.github.io/portfolio/
 
-license MIT licence
+### license MIT licence
 
-Copyright
+## Copyright
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
