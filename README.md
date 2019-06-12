@@ -1,7 +1,7 @@
-## NeighbourhoodWatch
+## Portfolio
 
 ### Description
-
+_A simple portfolio to demonstrate my skills and the projects i did as a developer and about myself_
 ### Author
 _amin egal_
 
@@ -12,7 +12,9 @@ _amin egal_
 
 
 ### Technologies Used
-
+* HTML
+* CSS
+* Javascript
 
 ### Support and contact details
 #### Telephone: _0741080373_
